@@ -7,4 +7,4 @@ Restart=always
 Type=simple
 
 [Install]
-WantedBy=milti-user.target
+WantedBy=multi-user.target
